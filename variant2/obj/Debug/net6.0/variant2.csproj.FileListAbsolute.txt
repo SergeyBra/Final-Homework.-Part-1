@@ -1,0 +1,15 @@
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\bin\Debug\net6.0\variant2.exe
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\bin\Debug\net6.0\variant2.deps.json
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\bin\Debug\net6.0\variant2.runtimeconfig.json
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\bin\Debug\net6.0\variant2.dll
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\bin\Debug\net6.0\variant2.pdb
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\obj\Debug\net6.0\variant2.csproj.AssemblyReference.cache
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\obj\Debug\net6.0\variant2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\obj\Debug\net6.0\variant2.AssemblyInfoInputs.cache
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\obj\Debug\net6.0\variant2.AssemblyInfo.cs
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\obj\Debug\net6.0\variant2.csproj.CoreCompileInputs.cache
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\obj\Debug\net6.0\variant2.dll
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\obj\Debug\net6.0\refint\variant2.dll
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\obj\Debug\net6.0\variant2.pdb
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\obj\Debug\net6.0\variant2.genruntimeconfig.cache
+D:\OneDrive\GB Education\Final homework. Part 1\variant2\obj\Debug\net6.0\ref\variant2.dll
