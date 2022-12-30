@@ -15,7 +15,7 @@
 
 Блок-схема для данного метода  и решение представлены по ссылкам:
 
-[Блок-схема для варианта 1](https://github.com/SergeyBra/Final-Homework.-Part-1/blob/main/algorythm%20for%20variant%201.jpg)
+[Блок-схема для варианта 1](https://github.com/SergeyBra/Final-Homework.-Part-1/blob/main/variant1_scheme.jpg)
 
 [Ссылка на решение](https://github.com/SergeyBra/Final-Homework.-Part-1/blob/main/variant1/Program.cs)
 
